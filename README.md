@@ -1,8 +1,7 @@
 # Android_JHipster_Basketball
 Android frontend that integrates with JHipster backend via OAuth 2.0
 
-This is the corresponding JHipster repository: https://github.com/alfredorueda/Spring-Basketball-oAuth2
-
+This is the corresponding JHipster repository: https://github.com/alfredorueda/atletas-backend-practica4
 You simply need to properly configure the properties:
 https://github.com/alfredorueda/Android-Basketball/blob/master/app/src/main/java/com/taniafontcuberta/basketball/util/CustomProperties.java
 as defined in your JHipster app:
